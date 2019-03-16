@@ -1,2 +1,0 @@
-# practice
-Git practical lab
